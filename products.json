@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "margherita",
+        "ingredients": "sos pomidorowy, mozzarella, świeża bazylia",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "piccante",
+        "ingredients": "sos pomidorowy, mozzarella, papryczka jalapeno",
+        "price": 17.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "salami",
+        "ingredients": "sos pomidorowy, czosnek, mozzarella, salami",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "wegetariańska",
+        "ingredients": "pieczarki, cebula, kukurydza, papryka kolorowa, sos pomidorowy",
+        "price": 21.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "carbonara",
+        "ingredients": "boczek, cebula, pieczarki (sos śmietankowy)",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "diavola",
+        "ingredients": "sos pomidorowy, salami spinata, mozzarella, papryczka jalapeno",
+        "price": 24.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "4 sery",
+        "ingredients": "gorgonzola, oliwa z chilli, mozzarella, parmigiano reggiano, winogrona, cheddar",
+        "price": 25.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "amerykańska",
+        "ingredients": "kurczak gyros, cebula, kukurydza, papryka, sos pomidorowy",
+        "price": 28.99,
+        "image": { "fields": { "file": { "url": "./images/pizza-8.jpg" } } }
+      }
+    }
+  ]
+}
